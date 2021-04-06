@@ -1,0 +1,13314 @@
+-DOCSTART- -X- O O	
+	
+Currently	O
+holding	O
+a	O
+faculty	O
+,	O
+industry	O
+,	O
+or	O
+government	O
+researcher	O
+position	O
+.	O
+	
+Ph.D.	B-DIPLOMA
+and	O
+publications	O
+in	O
+machine	B-DIPLOMA_MAJOR
+learning	I-DIPLOMA_MAJOR
+,	O
+AI	B-DIPLOMA_MAJOR
+,	O
+computer	B-DIPLOMA_MAJOR
+science	I-DIPLOMA_MAJOR
+,	O
+statistics	B-DIPLOMA_MAJOR
+,	O
+applied	B-DIPLOMA_MAJOR
+mathematics	I-DIPLOMA_MAJOR
+,	O
+data	B-DIPLOMA_MAJOR
+science	I-DIPLOMA_MAJOR
+,	O
+or	O
+related	O
+technical	O
+fields	O
+.	O
+	
+Experience	O
+leading	B-SKILLS
+a	O
+team	O
+in	O
+solving	O
+analytical	O
+problems	O
+using	O
+quantitative	O
+approaches	O
+.	O
+	
+Experience	O
+manipulating	B-SKILLS
+and	O
+analyzing	B-SKILLS
+data	O
+from	O
+different	O
+sources	O
+.	O
+	
+Experience	O
+in	O
+theoretical	B-SKILLS
+and	O
+empirical	B-SKILLS
+research	I-SKILLS
+and	O
+for	O
+answering	O
+questions	O
+with	O
+research	B-SKILLS
+.	O
+	
+Ability	O
+to	O
+communicate	B-SKILLS
+research	I-SKILLS
+for	I-SKILLS
+public	I-SKILLS
+audiences	I-SKILLS
+of	O
+peers	O
+.	O
+	
+Knowledge	O
+in	O
+a	O
+programming	B-SKILLS
+language	I-SKILLS
+.	O
+	
+Ability	O
+to	O
+obtain	O
+and	O
+maintain	O
+work	O
+authorization	O
+in	O
+the	O
+country	O
+of	O
+employment	O
+in	O
+2018	O
+.	O
+	
+PREFERRED	O
+	
+1	B-EXPERIENCE
++	I-EXPERIENCE
+year(s	I-EXPERIENCE
+)	O
+of	O
+work	O
+experience	O
+in	O
+a	O
+university	B-SKILLS
+,	O
+industry	B-SKILLS
+,	O
+or	O
+government	B-SKILLS
+lab(s	I-SKILLS
+)	I-SKILLS
+,	O
+in	O
+a	O
+role	O
+with	O
+primary	O
+emphasis	O
+on	O
+AI	B-SKILLS
+research	B-SKILLS
+.	O
+	
+Experience	O
+driving	B-SKILLS
+original	I-SKILLS
+scholarship	I-SKILLS
+in	O
+collaboration	O
+with	O
+a	O
+team	O
+.	O
+	
+First	O
+-	O
+author	O
+publications	O
+at	O
+peer	O
+-	O
+reviewed	O
+AI	B-SKILLS
+conferences	O
+(	O
+e.g.	O
+NIPS	B-SKILLS
+,	O
+CVPR	B-SKILLS
+,	O
+ICML	B-SKILLS
+,	O
+ICLR	B-SKILLS
+,	O
+ICCV	B-SKILLS
+,	O
+and	O
+ACL	B-SKILLS
+)	O
+.	O
+	
+Experience	O
+in	O
+developing	B-SKILLS
+and	I-SKILLS
+debugging	I-SKILLS
+in	O
+C	B-SKILLS
+/	O
+C++	B-SKILLS
+,	O
+Python	B-SKILLS
+,	O
+C	B-SKILLS
+#	I-SKILLS
+and/or	O
+Java	B-SKILLS
+.	O
+-DOCSTART- -X- O O	
+	
+2	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+experience	O
+in	O
+the	O
+online	B-SKILLS
+advertising	I-SKILLS
+or	O
+research	B-SKILLS
+	
+BS	B-DIPLOMA
+/	I-DIPLOMA
+BA	I-DIPLOMA
+Degree	O
+in	O
+Economics	B-DIPLOMA_MAJOR
+,	O
+Statistics	B-DIPLOMA_MAJOR
+,	O
+Political	B-DIPLOMA_MAJOR
+Science	I-DIPLOMA_MAJOR
+,	O
+History	B-DIPLOMA_MAJOR
+,	O
+Psychology	B-DIPLOMA_MAJOR
+	
+Experience	O
+with	O
+presenting	B-SKILLS
+and	O
+partnering	O
+with	O
+technical	O
+and	O
+non	O
+-	O
+technical	O
+teams	O
+	
+Experience	O
+communicating	B-SKILLS
+analyses	O
+and	O
+results	O
+to	O
+any	O
+audience	O
+	
+Experience	O
+working	B-SKILLS
+with	I-SKILLS
+structured	I-SKILLS
+and	I-SKILLS
+unstructured	I-SKILLS
+data	I-SKILLS
+-	I-SKILLS
+sets	I-SKILLS
+,	O
+statistical	B-SKILLS
+software	I-SKILLS
+such	O
+as	O
+R	B-SKILLS
+,	O
+STATA	B-SKILLS
+,	O
+SPSS	B-SKILLS
+,	O
+SAS	B-SKILLS
+as	O
+well	O
+as	O
+data	B-SKILLS
+extraction	I-SKILLS
+tools	I-SKILLS
+such	O
+as	O
+Hive	B-SKILLS
+and/or	O
+SQL	B-SKILLS
+	
+PREFERRED	O
+	
+Experience	O
+with	O
+causal	B-SKILLS
+measurement	I-SKILLS
+,	O
+machine	B-SKILLS
+learning	I-SKILLS
+or	O
+lab	B-SKILLS
+-	I-SKILLS
+based	I-SKILLS
+research	B-SKILLS
+	
+Experience	O
+in	O
+quantitative	B-SKILLS
+field	I-SKILLS
+,	O
+such	O
+as	O
+consulting	B-SKILLS
+,	O
+market	O
+research	B-SKILLS
+,	O
+strategy	B-SKILLS
+and	O
+planning	B-SKILLS
+,	O
+or	O
+user	O
+experience	O
+research	B-SKILLS
+	
+Strong	O
+organizational	B-SKILLS
+and	O
+project	B-SKILLS
+management	I-SKILLS
+skills	O
+	
+Masters	B-DIPLOMA
+in	O
+quantitative	B-DIPLOMA_MAJOR
+field	I-DIPLOMA_MAJOR
+or	O
+a	O
+MBA	B-DIPLOMA
+-DOCSTART- -X- O O	
+	
+BA	B-DIPLOMA
+/	I-DIPLOMA
+BS	I-DIPLOMA
+	
+5	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+program	O
+or	O
+project	B-SKILLS
+management	I-SKILLS
+experience	O
+	
+2	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+technical	B-SKILLS
+project	I-SKILLS
+/	O
+program	B-SKILLS
+management	I-SKILLS
+experience	O
+	
+Track	O
+record	O
+of	O
+operating	B-SKILLS
+independently	I-SKILLS
+	
+Experience	O
+understanding	O
+user	O
+needs	O
+,	O
+gathering	O
+requirements	O
+,	O
+and	O
+defining	O
+scope	O
+	
+Communication	B-SKILLS
+experience	O
+interacting	O
+with	O
+a	O
+variety	O
+of	O
+audiences	O
+from	O
+engineers	O
+,	O
+to	O
+vendors	O
+,	O
+to	O
+research	B-SKILLS
+leaders	I-SKILLS
+	
+Track	O
+record	O
+of	O
+building	O
+cross	O
+-	O
+functional	O
+relationships	O
+	
+PREFERRED	O
+	
+Experience	O
+working	O
+with	O
+UX	B-SKILLS
+Research	I-SKILLS
+and/or	O
+UX	B-SKILLS
+Design	I-SKILLS
+-DOCSTART- -X- O O	
+	
+Currently	O
+enrolled	O
+in	O
+a	O
+full	O
+-	O
+time	O
+degree	O
+program	O
+and	O
+returning	O
+to	O
+the	O
+program	O
+after	O
+the	O
+completion	O
+of	O
+the	O
+internship	O
+.	O
+	
+Publications	B-SKILLS
+or	O
+experience	O
+in	O
+fields	O
+related	O
+to	O
+in	O
+machine	B-SKILLS
+learning	I-SKILLS
+,	O
+AI	B-SKILLS
+,	O
+computer	B-SKILLS
+vision	I-SKILLS
+,	O
+natural	B-SKILLS
+language	I-SKILLS
+processing	I-SKILLS
+,	O
+computational	B-SKILLS
+neuroscience	I-SKILLS
+,	O
+optimization	B-SKILLS
+,	O
+computer	B-DIPLOMA_MAJOR
+science	I-DIPLOMA_MAJOR
+,	O
+statistics	B-DIPLOMA_MAJOR
+,	O
+applied	B-SKILLS
+mathematics	I-SKILLS
+,	O
+or	O
+data	B-SKILLS
+science	I-SKILLS
+.	O
+	
+Experience	O
+solving	O
+analytical	O
+problems	O
+using	O
+quantitative	O
+approaches	O
+.	O
+	
+Ability	O
+to	O
+manipulate	B-SKILLS
+and	O
+analyze	O
+large	O
+scale	O
+,	O
+high	B-SKILLS
+-	I-SKILLS
+dimensionality	I-SKILLS
+data	I-SKILLS
+from	O
+varying	B-SKILLS
+sources	I-SKILLS
+.	O
+	
+Experience	O
+in	O
+utilizing	O
+theoretical	O
+and	O
+empirical	O
+research	B-SKILLS
+to	O
+solve	B-SKILLS
+problems	I-SKILLS
+.	O
+	
+Ability	O
+to	O
+communicate	O
+research	B-SKILLS
+for	O
+public	O
+audiences	O
+of	O
+peers	O
+.	O
+	
+Knowledge	O
+in	O
+a	O
+programming	B-SKILLS
+language	I-SKILLS
+.	O
+	
+Ability	O
+to	O
+obtain	O
+and	O
+maintain	O
+work	O
+authorization	O
+in	O
+the	O
+country	O
+of	O
+employment	O
+in	O
+2018	B-SKILLS
+.	O
+	
+PREFERRED	O
+	
+Pursuing	O
+a	O
+Ph.D.	B-DIPLOMA
+degree	O
+in	O
+Computer	B-DIPLOMA_MAJOR
+Science	I-DIPLOMA_MAJOR
+or	O
+related	O
+field	O
+	
+First	O
+-	O
+author	O
+publications	B-SKILLS
+at	O
+peer	O
+-	O
+reviewed	O
+AI	B-SKILLS
+conferences	O
+(	O
+e.g.	O
+NIPS	B-SKILLS
+,	O
+ICML	B-SKILLS
+,	O
+ICLR	B-SKILLS
+,	O
+CVPR	B-SKILLS
+,	O
+ICCV	B-SKILLS
+,	O
+ECCV	B-SKILLS
+,	O
+ACL	B-SKILLS
+,	O
+NAACL	B-SKILLS
+,	O
+and	O
+EMNLP	B-SKILLS
+)	O
+.	O
+	
+Experience	O
+building	O
+systems	B-SKILLS
+based	O
+on	O
+machine	B-SKILLS
+learning	I-SKILLS
+and/or	O
+deep	O
+learning	O
+methods	O
+.	O
+	
+Research	B-SKILLS
+and	O
+software	B-SKILLS
+engineer	I-SKILLS
+experience	O
+demonstrated	O
+via	O
+an	O
+internship	O
+,	O
+work	O
+experience	O
+,	O
+or	O
+coding	B-SKILLS
+competitions	O
+.	O
+	
+Knowledge	O
+in	O
+Python	B-SKILLS
+,	O
+Lua	O
+,	O
+C++	B-SKILLS
+,	O
+C	B-SKILLS
+,	O
+C	B-SKILLS
+#	I-SKILLS
+and/or	O
+Java	B-SKILLS
+.	O
+-DOCSTART- -X- O O	
+	
+Currently	O
+enrolled	O
+in	O
+a	O
+full	O
+-	O
+time	O
+degree	O
+program	O
+and	O
+returning	O
+to	O
+the	O
+program	O
+after	O
+the	O
+completion	O
+of	O
+the	O
+internship	O
+.	O
+	
+Publications	O
+or	O
+experience	O
+in	O
+fields	O
+related	O
+to	O
+in	O
+machine	B-SKILLS
+learning	I-SKILLS
+,	O
+AI	B-SKILLS
+,	O
+computer	B-SKILLS
+vision	I-SKILLS
+,	O
+natural	B-SKILLS
+language	I-SKILLS
+processing	I-SKILLS
+,	O
+computational	B-SKILLS
+neuroscience	I-SKILLS
+,	O
+optimization	B-SKILLS
+,	O
+computer	B-SKILLS
+science	I-SKILLS
+,	O
+statistics	B-SKILLS
+,	O
+applied	B-SKILLS
+mathematics	I-SKILLS
+,	O
+or	O
+data	B-SKILLS
+science	I-SKILLS
+.	O
+	
+Experience	O
+solving	B-SKILLS
+analytical	I-SKILLS
+problems	I-SKILLS
+using	O
+quantitative	O
+approaches	O
+.	O
+	
+Ability	O
+to	O
+manipulate	B-SKILLS
+and	O
+analyze	B-SKILLS
+large	I-SKILLS
+scale	I-SKILLS
+,	O
+high	B-SKILLS
+-	I-SKILLS
+dimensionality	I-SKILLS
+data	I-SKILLS
+from	O
+varying	B-SKILLS
+sources	I-SKILLS
+.	O
+	
+Experience	O
+in	O
+utilizing	O
+theoretical	O
+and	O
+empirical	O
+research	B-SKILLS
+to	O
+solve	B-SKILLS
+problems	I-SKILLS
+.	O
+	
+Ability	O
+to	O
+communicate	O
+research	B-SKILLS
+for	O
+public	O
+audiences	O
+of	O
+peers	O
+.	O
+	
+Knowledge	O
+in	O
+a	O
+programming	B-SKILLS
+language	I-SKILLS
+.	O
+	
+Ability	O
+to	O
+obtain	O
+and	O
+maintain	O
+work	O
+authorization	O
+in	O
+the	O
+country	O
+of	O
+employment	O
+in	O
+2019	O
+.	O
+	
+PREFERRED	O
+	
+Pursuing	O
+a	O
+Ph.D.	B-DIPLOMA
+degree	O
+in	O
+Computer	B-DIPLOMA_MAJOR
+Science	I-DIPLOMA_MAJOR
+or	O
+related	O
+field	O
+.	O
+	
+First	O
+-	O
+author	O
+publications	O
+at	O
+peer	O
+-	O
+reviewed	O
+AI	O
+conferences	O
+(	O
+e.g.	O
+NIPS	B-SKILLS
+,	O
+ICML	B-SKILLS
+,	O
+ICLR	B-SKILLS
+,	O
+CVPR	B-SKILLS
+,	O
+ICCV	B-SKILLS
+,	O
+ECCV	O
+,	O
+ACL	O
+,	O
+NAACL	B-SKILLS
+,	O
+and	O
+EMNLP	B-SKILLS
+)	O
+.	O
+	
+Experience	O
+building	B-SKILLS
+systems	I-SKILLS
+based	I-SKILLS
+on	I-SKILLS
+machine	I-SKILLS
+learning	I-SKILLS
+and/or	O
+deep	B-SKILLS
+learning	I-SKILLS
+methods	O
+.	O
+	
+Research	B-SKILLS
+and	O
+software	O
+engineer	O
+experience	O
+demonstrated	O
+via	O
+an	O
+internship	O
+,	O
+work	O
+experience	O
+,	O
+or	O
+coding	O
+competitions	O
+.	O
+	
+Knowledge	O
+in	O
+Python	B-SKILLS
+,	O
+Lua	B-SKILLS
+,	O
+C++	B-SKILLS
+,	O
+C	B-SKILLS
+,	O
+C	B-SKILLS
+#	I-SKILLS
+and/or	O
+Java	O
+.	O
+	
+	
+-DOCSTART- -X- O O	
+	
+MS	B-DIPLOMA
+in	O
+a	O
+quantitative	O
+field	O
+such	O
+as	O
+Operations	B-DIPLOMA_MAJOR
+Research	I-DIPLOMA_MAJOR
+,	O
+Computer	B-DIPLOMA_MAJOR
+Science	I-DIPLOMA_MAJOR
+,	O
+Quantitative	B-DIPLOMA_MAJOR
+Finance	I-DIPLOMA_MAJOR
+,	O
+Math	B-DIPLOMA_MAJOR
+,	O
+Physics	B-DIPLOMA_MAJOR
+or	O
+a	O
+related	O
+Engineering	B-DIPLOMA_MAJOR
+degree	O
+	
+Knowledge	O
+of	O
+Statistics	B-SKILLS
+&	O
+Probability	B-SKILLS
+(	O
+e.g.	O
+Hypothesis	B-SKILLS
+testing	I-SKILLS
+,	O
+Regression	B-SKILLS
+,	O
+Stochastic	B-SKILLS
+modeling	I-SKILLS
+,	O
+Markov	B-SKILLS
+Chains	I-SKILLS
+and	O
+etc	O
+.	O
+)	O
+	
+7	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+experience	O
+in	O
+building	B-SKILLS
+models	I-SKILLS
+and	O
+developing	B-SKILLS
+algorithms	I-SKILLS
+for	O
+machine	B-SKILLS
+learning	I-SKILLS
+,	O
+statistics	B-SKILLS
+,	O
+mathematical	B-SKILLS
+programming	I-SKILLS
+,	O
+and	O
+simulation	B-SKILLS
+in	O
+industry	B-SKILLS
+and/or	O
+academia	B-SKILLS
+	
+5	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+experience	O
+in	O
+managing	B-SKILLS
+and	O
+analyzing	B-SKILLS
+large	I-SKILLS
+-	I-SKILLS
+scale	I-SKILLS
+structured	I-SKILLS
+and	I-SKILLS
+unstructured	I-SKILLS
+data	I-SKILLS
+using	O
+R	B-SKILLS
+or	O
+Python	B-SKILLS
+	
+7	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+experience	O
+with	O
+algorithms	B-SKILLS
+and	O
+optimizations	B-SKILLS
+using	O
+CPLEX	B-SKILLS
+or	O
+related	O
+tools	O
+	
+7	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+experience	O
+in	O
+SQL	B-SKILLS
+and	O
+data	B-SKILLS
+modeling	I-SKILLS
+	
+PREFERRED	O
+	
+PhD	B-DIPLOMA
+in	O
+Operation	B-DIPLOMA_MAJOR
+Research	I-DIPLOMA_MAJOR
+or	O
+Industrial	B-DIPLOMA_MAJOR
+Engineering	I-DIPLOMA_MAJOR
+.	O
+	
+Familiarity	O
+with	O
+object	B-SKILLS
+-	I-SKILLS
+oriented	I-SKILLS
+programming	I-SKILLS
+languages	O
+(	O
+such	O
+as	O
+C++	B-SKILLS
+or	O
+Java	B-SKILLS
+)	O
+and	O
+visualization	B-SKILLS
+tools	O
+(	O
+such	O
+as	O
+Tableau	O
+)	O
+.	O
+	
+Experience	O
+working	O
+with	O
+or	O
+in	O
+support	B-SKILLS
+of	O
+diverse	O
+communities	O
+.	O
+-DOCSTART- -X- O O	
+	
+Ph.D.	B-DIPLOMA
+with	O
+5	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+experience	O
+,	O
+MS	B-DIPLOMA
+with	O
+7	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+experience	O
+,	O
+or	O
+BS	B-EXPERIENCE
+with	O
+10	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+experience	O
+in	O
+Physics	B-EXPERIENCE
+,	O
+Electrical	B-DIPLOMA_MAJOR
+Engineering	I-DIPLOMA_MAJOR
+,	O
+Computer	B-DIPLOMA_MAJOR
+Science	I-DIPLOMA_MAJOR
+,	O
+or	O
+a	O
+related	O
+technical	O
+field	O
+such	O
+us	O
+architecting	B-SKILLS
+,	O
+developing	B-SKILLS
+,	O
+and	O
+launching	B-SKILLS
+hardware	I-SKILLS
+/	I-SKILLS
+software	I-SKILLS
+projects	I-SKILLS
+and/or	O
+services	B-SKILLS
+	
+Demonstrated	O
+knowledge	O
+dissemination	O
+through	O
+authored	O
+publications	O
+,	O
+international	O
+conference	B-SKILLS
+presentations	I-SKILLS
+or	O
+shipped	B-SKILLS
+products	I-SKILLS
+	
+ML	B-SKILLS
+/	O
+AI	B-SKILLS
+basics	I-SKILLS
+,	O
+and	O
+systems	B-SKILLS
+basics	I-SKILLS
+,	O
+including	O
+the	O
+requisite	B-SKILLS
+programming	I-SKILLS
+experience	O
+(	O
+python	B-SKILLS
+or	I-SKILLS
+equivalent	I-SKILLS
+,	O
+and	O
+at	O
+least	O
+one	O
+systems	O
+-	O
+level	O
+programming	O
+language	O
+:	O
+C	B-SKILLS
+,	O
+C++	B-SKILLS
+,	O
+Java	B-SKILLS
+,	I-SKILLS
+Go	B-SKILLS
+,	O
+Rust	B-SKILLS
+,	O
+or	O
+equivalent	O
+)	O
+	
+Experience	O
+with	O
+data	B-SKILLS
+analytics	I-SKILLS
+(	O
+data	B-SKILLS
+collection	I-SKILLS
+,	O
+storage	B-SKILLS
+,	O
+cleaning	B-SKILLS
+,	O
+processing	B-SKILLS
+with	O
+statistics	B-SKILLS
+,	O
+visualization	B-SKILLS
+,	O
+and	O
+other	O
+data	O
+related	O
+processes	O
+)	O
+	
+Experience	O
+working	O
+on	O
+communication	B-SKILLS
+systems	I-SKILLS
+in	O
+a	O
+research	B-SKILLS
+and/or	O
+development	B-SKILLS
+capacity	I-SKILLS
+	
+Technical	B-SKILLS
+leadership	I-SKILLS
+in	O
+leading	O
+research	B-SKILLS
+efforts	O
+with	O
+a	O
+demonstrated	O
+experience	O
+handling	B-SKILLS
+multiple	I-SKILLS
+priorities	I-SKILLS
+	
+PREFERRED	O
+	
+Deep	O
+understanding	O
+of	O
+how	O
+culture	O
+and	O
+team	B-SKILLS
+dynamics	I-SKILLS
+create	O
+exceptional	O
+teams	O
+-DOCSTART- -X- O O	
+	
+Graduating	O
+with	O
+a	O
+Ph.D.	B-DIPLOMA
+in	O
+Computer	B-DIPLOMA_MAJOR
+Science	I-DIPLOMA_MAJOR
+or	O
+related	O
+field	O
+or	O
+relevant	O
+experience	O
+.	O
+	
+First	B-SKILLS
+-	I-SKILLS
+author	I-SKILLS
+publications	I-SKILLS
+at	O
+peer	O
+-	O
+reviewed	O
+AI	B-SKILLS
+conferences	O
+(	O
+e.g.	O
+NIPS	B-SKILLS
+,	O
+CVPR	B-SKILLS
+,	O
+ICML	B-SKILLS
+,	O
+ICLR	B-SKILLS
+,	O
+ICCV	B-SKILLS
+,	O
+and	O
+ACL	B-SKILLS
+)	O
+.	O
+	
+Experience	O
+leading	B-SKILLS
+a	O
+team	O
+in	O
+solving	O
+analytical	O
+problems	O
+using	O
+quantitative	O
+approaches	O
+.	O
+	
+Experience	O
+manipulating	B-SKILLS
+and	O
+analyzing	B-SKILLS
+data	O
+from	O
+different	O
+sources	O
+.	O
+	
+Experience	O
+in	O
+leading	B-SKILLS
+theoretical	O
+and	O
+empirical	O
+research	B-SKILLS
+and	O
+for	O
+answering	O
+questions	O
+with	O
+research	B-SKILLS
+.	O
+	
+Experience	O
+communicating	B-SKILLS
+research	B-SKILLS
+for	O
+public	O
+audiences	O
+of	O
+peers	O
+.	O
+	
+Knowledge	O
+in	O
+a	O
+programming	O
+language	O
+.	O
+	
+Must	O
+be	O
+able	O
+to	O
+obtain	O
+and	O
+maintain	O
+work	O
+authorization	O
+in	O
+the	O
+country	O
+of	O
+employment	O
+in	O
+2018	B-SKILLS
+.	O
+	
+PREFERRED	O
+	
+Previous	O
+internship(s	O
+)	O
+and/or	O
+research	B-SKILLS
+assistantship(s	O
+)	O
+in	O
+an	O
+AI	B-SKILLS
+research	I-SKILLS
+organization	I-SKILLS
+.	O
+	
+Experience	O
+in	O
+developing	B-SKILLS
+and	I-SKILLS
+debugging	I-SKILLS
+in	O
+C	B-SKILLS
+/	I-SKILLS
+C++	I-SKILLS
+,	O
+Python	B-SKILLS
+,	O
+C	B-SKILLS
+#	I-SKILLS
+and/or	O
+Java	B-SKILLS
+.	O
+	
+Has	O
+previously	O
+completed	O
+a	O
+postdoctoral	O
+role	O
+in	O
+AI	B-SKILLS
+research	B-SKILLS
+.	O
+-DOCSTART- -X- O O	
+	
+12	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+research	B-SKILLS
+experience	O
+,	O
+in	O
+-	O
+house	O
+or	O
+as	O
+a	O
+vendor	O
+(	O
+including	O
+applicable	O
+consulting	O
+experience	O
+)	O
+	
+Ph	B-SKILLS
+.	I-SKILLS
+D	I-SKILLS
+in	O
+human	B-DIPLOMA_MAJOR
+-	I-DIPLOMA_MAJOR
+computer	I-DIPLOMA_MAJOR
+interaction	I-DIPLOMA_MAJOR
+,	O
+human	B-DIPLOMA_MAJOR
+factors	I-DIPLOMA_MAJOR
+,	O
+cognitive	B-DIPLOMA_MAJOR
+psychology	I-DIPLOMA_MAJOR
+or	O
+related	O
+field	O
+	
+User	O
+safety	O
+demonstrated	O
+knowledge	O
+through	O
+authored	O
+publications	O
+,	O
+international	O
+conference	B-SKILLS
+presentations	I-SKILLS
+or	O
+shipped	B-SKILLS
+products	I-SKILLS
+	
+Experience	O
+collaborating	B-SKILLS
+and	O
+working	O
+across	O
+teams	O
+to	O
+develop	O
+concepts	O
+that	O
+advance	O
+the	O
+entire	O
+product	O
+pipeline	O
+(	O
+hardware	B-SKILLS
+,	O
+software	B-SKILLS
+,	O
+computer	B-SKILLS
+vision	I-SKILLS
+,	O
+etc	O
+.	O
+)	O
+-DOCSTART- -X- O O	
+	
+PhD	B-DIPLOMA
+with	O
+3	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+,	O
+or	O
+MS	B-DIPLOMA
+with	O
+5	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+experience	O
+in	O
+a	O
+field	O
+emphasizing	B-SKILLS
+people	I-SKILLS
+research	I-SKILLS
+in	I-SKILLS
+organizations	I-SKILLS
+(	O
+e.g.	O
+,	O
+Industrial	B-SKILLS
+/	O
+Organizational	B-SKILLS
+Psychology	I-SKILLS
+,	O
+Organizational	B-SKILLS
+Behavior	I-SKILLS
+,	O
+Labor	B-SKILLS
+Economics	I-SKILLS
+,	O
+Management	B-SKILLS
+,	O
+Policy	B-SKILLS
+Analysis	I-SKILLS
+,	O
+etc	O
+.	O
+)	O
+	
+3	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+experience	O
+conducting	B-SKILLS
+quantitative	I-SKILLS
+people	I-SKILLS
+research	I-SKILLS
+in	O
+an	O
+organization	O
+or	O
+consulting	O
+environment	O
+,	O
+including	O
+working	B-SKILLS
+with	I-SKILLS
+stakeholders	I-SKILLS
+to	O
+understand	O
+and	O
+clarify	O
+their	O
+people	O
+research	O
+needs	O
+,	O
+and	O
+communicating	B-SKILLS
+analyses	O
+to	O
+technical	O
+and	O
+non	O
+-	O
+technical	O
+audiences	O
+	
+Experience	O
+managing	B-SKILLS
+and	O
+analyzing	B-SKILLS
+structured	I-SKILLS
+and	O
+unstructured	B-SKILLS
+data	I-SKILLS
+	
+Experience	O
+communicating	B-SKILLS
+technical	I-SKILLS
+results	I-SKILLS
+to	O
+technical	O
+and	O
+non	O
+-	O
+technical	O
+audiences	O
+	
+Experience	O
+operating	B-SKILLS
+in	I-SKILLS
+a	I-SKILLS
+consultative	I-SKILLS
+capacity	I-SKILLS
+with	O
+stakeholders	O
+	
+Experience	O
+defining	B-SKILLS
+a	I-SKILLS
+roadmap	I-SKILLS
+of	I-SKILLS
+data	I-SKILLS
+requirements	I-SKILLS
+,	O
+metrics	B-SKILLS
+reporting	I-SKILLS
+,	O
+and	O
+research	O
+to	O
+drive	O
+insights	O
+	
+Experience	O
+in	O
+communicating	B-SKILLS
+and	O
+weaving	O
+together	O
+multiple	O
+data	O
+sources	O
+and	O
+deliver	O
+insights	O
+to	O
+stakeholders	O
+	
+Knowledge	O
+of	O
+statistical	B-SKILLS
+analysis	I-SKILLS
+(	O
+e.g.	O
+,	O
+descriptive	B-SKILLS
+statistics	I-SKILLS
+and	O
+knowledge	B-SKILLS
+with	I-SKILLS
+statistical	I-SKILLS
+significance	I-SKILLS
+)	O
+,	O
+quantitative	B-SKILLS
+research	I-SKILLS
+,	O
+and	O
+experience	O
+gathering	B-SKILLS
+and	I-SKILLS
+interpreting	I-SKILLS
+data	I-SKILLS
+	
+PREFERRED	O
+	
+3	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+experience	O
+applying	O
+multivariate	O
+statistical	B-SKILLS
+methods	I-SKILLS
+to	O
+people	O
+research	O
+problems	O
+in	O
+organizations	O
+	
+5	B-EXPERIENCE
++	I-EXPERIENCE
+years	I-EXPERIENCE
+of	O
+progressive	B-SKILLS
+consulting	I-SKILLS
+or	O
+corporate	B-SKILLS
+work	I-SKILLS
+experience	I-SKILLS
+focused	O
+on	O
+using	B-SKILLS
+data	I-SKILLS
+to	I-SKILLS
+uncover	I-SKILLS
+insights	I-SKILLS
+that	I-SKILLS
+drive	I-SKILLS
+action	I-SKILLS
+and	O
+communicating	B-SKILLS
+analyses	O
+to	O
+technical	O
+and	O
+non	O
+-	O
+technical	O
+audiences	O
+	
+Relevant	O
+experience	O
+includes	O
+analytics	O
+,	O
+management	B-SKILLS
+consulting	O
+,	O
+sales	O
+operations	O
+,	O
+finance	O
+,	O
+compensation	B-SKILLS
+,	O
+or	O
+related	O
+fields	O
+	
+People	B-SKILLS
+management	I-SKILLS
+experience	O
+	
+Experience	O
+developing	B-SKILLS
+tools	O
+,	O
+conducting	O
+empirical	O
+research	O
+,	O
+practical	B-SKILLS
+implementation	I-SKILLS
+,	O
+knowledge	O
+of	O
+best	O
+practices	O
+in	O
+at	O
+least	O
+two	O
+of	O
+the	O
+following	O
+areas	O
+:	O
+employee	B-SKILLS
+engagement	I-SKILLS
+,	O
+performance	B-SKILLS
+management	I-SKILLS
+,	O
+diversity	B-SKILLS
+,	O
+compensation	B-SKILLS
+(	O
+e.g.	O
+,	O
+pay	B-SKILLS
+equity	I-SKILLS
+)	O
+,	O
+or	O
+retention	B-SKILLS
+	
+Experience	O
+conceiving	B-SKILLS
+,	O
+developing	B-SKILLS
+,	O
+running	B-SKILLS
+pilot	I-SKILLS
+tests	I-SKILLS
+,	O
+implementing	B-SKILLS
+,	O
+and	O
+continuously	B-SKILLS
+improving	I-SKILLS
+large	I-SKILLS
+-	I-SKILLS
+scale	I-SKILLS
+people	I-SKILLS
+processes	I-SKILLS
+	
+Experience	O
+managing	B-SKILLS
+and	O
+analyzing	B-SKILLS
+structured	I-SKILLS
+and	O
+unstructured	B-SKILLS
+data	I-SKILLS
+with	O
+R	B-SKILLS
+and	O
+SQL	B-SKILLS
+-DOCSTART- -X- O O	
+	
+Currently	O
+holding	O
+a	O
+faculty	O
+,	O
+industry	B-SKILLS
+,	O
+or	O
+government	O
+researcher	O
+position	O
+.	O
+	
+Ph.D.	B-DIPLOMA
+and	O
+publications	O
+in	O
+machine	B-DIPLOMA_MAJOR
+learning	I-DIPLOMA_MAJOR
+,	O
+AI	B-DIPLOMA_MAJOR
+,	O
+computer	B-DIPLOMA_MAJOR
+science	I-DIPLOMA_MAJOR
+,	O
+statistics	B-DIPLOMA_MAJOR
+,	O
+applied	B-DIPLOMA_MAJOR
+mathematics	I-DIPLOMA_MAJOR
+,	O
+data	B-DIPLOMA_MAJOR
+science	I-DIPLOMA_MAJOR
+,	O
+or	O
+related	O
+technical	O
+fields	O
+.	O
+	
+Experience	O
+leading	B-SKILLS
+a	O
+team	O
+in	O
+solving	O
+analytical	O
+problems	O
+using	O
+quantitative	O
+approaches	O
+.	O
+	
+Experience	O
+solving	O
+analytical	O
+problems	O
+using	O
+quantitative	O
+approaches	O
+.	O
+	
+Experience	O
+manipulating	B-SKILLS
+and	O
+analyzing	B-SKILLS
+data	O
+from	O
+different	O
+sources	O
+.	O
+	
+Experience	O
+in	O
+theoretical	B-SKILLS
+and	O
+empirical	B-SKILLS
+research	I-SKILLS
+and	O
+for	O
+answering	O
+questions	O
+with	O
+research	B-SKILLS
+.	O
+	
+Ability	O
+to	O
+communicate	B-SKILLS
+research	I-SKILLS
+.	O
+	
+Knowledge	O
+in	O
+some	O
+programming	O
+language	O
+.	O
+	
+Traduction	O
+franaise	O
+-	O
+minimales	O
+:	O
+	
+Occuper	O
+actuellement	O
+un	O
+poste	O
+de	O
+chercheur	O
+dans	O
+une	O
+facult	O
+,	O
+une	O
+industrie	O
+ou	O
+un	O
+gouvernement	O
+.	O
+	
+Doctorat	O
+et	O
+des	O
+publications	B-SKILLS
+sur	O
+l'apprentissage	B-SKILLS
+automatique	I-SKILLS
+,	O
+l'intelligence	O
+artificielle	O
+,	O
+l'informatique	B-SKILLS
+,	O
+les	O
+statistiques	O
+,	O
+les	O
+mathmatiques	B-SKILLS
+appliques	I-SKILLS
+,	O
+la	O
+science	B-SKILLS
+des	O
+donnes	O
+ou	O
+des	O
+domaines	O
+techniques	O
+connexes	O
+.	O
+	
+Exprience	O
+de	O
+la	O
+direction	O
+dune	O
+quipe	O
+dans	O
+la	O
+rsolution	O
+de	O
+problmes	O
+analytiques	O
+laide	O
+dapproches	O
+quantitatives	O
+.	O
+	
+Exprience	O
+en	O
+manipulation	O
+et	O
+analyse	O
+de	O
+donnes	O
+provenant	O
+de	O
+diffrentes	O
+sources	O
+.	O
+	
+Rpondre	O
+des	O
+questions	O
+avec	O
+la	O
+recherche	O
+	
+capacit	O
+communiquer	O
+la	O
+recherche	O
+.	O
+	
+Connaissances	O
+dans	O
+certains	O
+langages	O
+de	O
+programmation	O
+.	O
+	
+PREFERRED	O
+	
+1	B-EXPERIENCE
++	I-EXPERIENCE
+year(s	I-EXPERIENCE
+)	I-EXPERIENCE
+of	O
+work	O
+experience	O
+in	O
+within	O
+a	O
+university	O
+,	O
+industry	B-SKILLS
+,	O
+or	O
+government	O
+lab(s	O
+)	O
+,	O
+in	O
+a	O
+role	O
+with	O
+primary	O
+emphasis	O
+on	O
+AI	B-SKILLS
+research	B-SKILLS
+.	O
+	
+Experience	O
+driving	B-SKILLS
+original	O
+scholarship	O
+in	O
+collaboration	O
+with	O
+a	O
+team	O
+.	O
+	
+First	B-SKILLS
+-	I-SKILLS
+author	I-SKILLS
+publications	I-SKILLS
+at	O
+peer	O
+-	O
+reviewed	O
+AI	B-SKILLS
+conferences	O
+(	O
+e.g.	O
+NIPS	B-SKILLS
+,	O
+CVPR	B-SKILLS
+,	O
+ICML	B-SKILLS
+,	O
+ICLR	B-SKILLS
+,	O
+ICCV	B-SKILLS
+,	O
+and	O
+ACL	B-SKILLS
+)	O
+.	O
+	
+Experience	O
+in	O
+developing	O
+and	O
+debugging	O
+in	O
+C	B-SKILLS
+/	I-SKILLS
+C++	I-SKILLS
+,	O
+Python	B-SKILLS
+,	O
+C	B-SKILLS
+#	I-SKILLS
+and/or	O
+Java	B-SKILLS
+.	O
+	
+Traduction	O
+franaise	O
+-	O
+prfres	O
+:	O
+	
+1	O
+an	O
+ou	O
+plus	O
+d'exprience	O
+de	O
+travail	O
+dans	O
+une	O
+universit	O
+,	O
+une	O
+industrie	O
+ou	O
+un	O
+laboratoire	O
+gouvernemental	O
+,	O
+dans	O
+un	O
+rle	O
+principalement	O
+ax	O
+sur	O
+la	O
+recherche	O
+sur	O
+l'IA	O
+.	O
+	
+Exprience	O
+de	O
+la	O
+conduite	O
+de	O
+la	O
+bourse	O
+originale	O
+en	O
+collaboration	O
+avec	O
+une	O
+quipe	O
+.	O
+	
+Publications	O
+du	O
+premier	O
+auteur	O
+lors	O
+de	O
+confrences	O
+sur	O
+lIA	B-SKILLS
+examines	O
+par	O
+des	O
+pairs	O
+(	O
+par	O
+exemple	O
+NIPS	B-SKILLS
+,	O
+CVPR	B-SKILLS
+,	O
+ICML	B-SKILLS
+,	O
+ICLR	B-SKILLS
+,	O
+ICCV	B-SKILLS
+et	O
+ACL	B-SKILLS
+)	O
+.	O
+	
+Exprience	O
+dans	O
+le	O
+dveloppement	O
+et	O
+le	O
+dbogage	B-SKILLS
+en	O
+C	B-SKILLS
+/	O
+C	B-SKILLS
++	I-SKILLS
++	I-SKILLS
+,	O
+Python	B-SKILLS
+,	O
+C	B-SKILLS
+#	I-SKILLS
+et	O
+/	O
+ou	O
+Java	B-SKILLS
+.	O
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
