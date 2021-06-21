@@ -1,0 +1,938 @@
+[
+  {
+    "document": "\nCurrently holding a faculty, industry, or government researcher position.\nPh.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields.\nExperience leading a team in solving analytical problems using quantitative approaches.\nExperience manipulating and analyzing data from different sources.\nExperience in theoretical and empirical research and for answering questions with research.\nAbility to communicate research for public audiences of peers.\nKnowledge in a programming language.\nAbility to obtain and maintain work authorization in the country of employment in 2018.\n\nPREFERRED \n1+ year(s) of work experience in a university, industry, or government lab(s), in a role with primary emphasis on AI research.\nExperience driving original scholarship in collaboration with a team.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience in developing and debugging in C/C++, Python, C# and/or Java.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "start": 75,
+        "end": 80,
+        "token_start": 14,
+        "token_end": 14,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "machine learning",
+        "start": 101,
+        "end": 117,
+        "token_start": 18,
+        "token_end": 19,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "AI",
+        "start": 119,
+        "end": 121,
+        "token_start": 21,
+        "token_end": 21,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "computer science",
+        "start": 123,
+        "end": 139,
+        "token_start": 23,
+        "token_end": 24,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "statistics",
+        "start": 141,
+        "end": 151,
+        "token_start": 26,
+        "token_end": 26,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "applied mathematics",
+        "start": 153,
+        "end": 172,
+        "token_start": 28,
+        "token_end": 29,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "data science",
+        "start": 174,
+        "end": 186,
+        "token_start": 31,
+        "token_end": 32,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "1+ year(s",
+        "start": 664,
+        "end": 673,
+        "token_start": 113,
+        "token_end": 115,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "university",
+        "start": 699,
+        "end": 709,
+        "token_start": 122,
+        "token_end": 122,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "industry",
+        "start": 711,
+        "end": 719,
+        "token_start": 124,
+        "token_end": 124,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "government lab(s)",
+        "start": 724,
+        "end": 741,
+        "token_start": 127,
+        "token_end": 129,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "AI",
+        "start": 778,
+        "end": 780,
+        "token_start": 138,
+        "token_end": 138,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 18, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 21, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 23, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 26, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 28, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 31, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 122, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 124, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 127, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 138, "head": 113, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "\n2+ years experience in the online advertising or research\nBS/BA Degree in Economics, Statistics, Political Science, History, Psychology\nExperience with presenting and partnering with technical and non-technical teams\nExperience communicating analyses and results to any audience\nExperience working with structured and unstructured data-sets, statistical software such as R, STATA, SPSS, SAS as well as data extraction tools such as Hive and/or SQL\n\nPREFERRED \nExperience with causal measurement, machine learning or lab-based research\nExperience in quantitative field, such as consulting, market research, strategy and planning, or user experience research\nStrong organizational and project management skills\nMasters in quantitative field or a MBA",
+    "tokens": [
+      {
+        "text": "2+ years",
+        "start": 1,
+        "end": 9,
+        "token_start": 1,
+        "token_end": 3,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "online advertising",
+        "start": 28,
+        "end": 46,
+        "token_start": 7,
+        "token_end": 8,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "research",
+        "start": 50,
+        "end": 58,
+        "token_start": 10,
+        "token_end": 10,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BS/BA",
+        "start": 59,
+        "end": 64,
+        "token_start": 12,
+        "token_end": 14,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Economics",
+        "start": 75,
+        "end": 84,
+        "token_start": 17,
+        "token_end": 17,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Statistics",
+        "start": 86,
+        "end": 96,
+        "token_start": 19,
+        "token_end": 19,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Political Science",
+        "start": 98,
+        "end": 115,
+        "token_start": 21,
+        "token_end": 22,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "History",
+        "start": 117,
+        "end": 124,
+        "token_start": 24,
+        "token_end": 24,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Psychology",
+        "start": 126,
+        "end": 136,
+        "token_start": 26,
+        "token_end": 26,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Masters",
+        "start": 710,
+        "end": 717,
+        "token_start": 126,
+        "token_end": 126,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "quantitative field",
+        "start": 721,
+        "end": 739,
+        "token_start": 128,
+        "token_end": 129,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 7, "head": 1, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 10, "head": 1, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 17, "head": 12, "relationLabel": "DEGREE_IN" },
+      { "child": 19, "head": 12, "relationLabel": "DEGREE_IN" },
+      { "child": 21, "head": 12, "relationLabel": "DEGREE_IN" },
+      { "child": 24, "head": 12, "relationLabel": "DEGREE_IN" },
+      { "child": 26, "head": 12, "relationLabel": "DEGREE_IN" },
+      { "child": 128, "head": 126, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "\nBA/BS\n5+ years of program or project management experience\n2+ years of technical project/program management experience\nTrack record of operating independently\nExperience understanding user needs, gathering requirements, and defining scope\nCommunication experience interacting with a variety of audiences from engineers, to vendors, to research leaders\nTrack record of building cross-functional relationships\n\nPREFERRED \nExperience working with UX Research and/or UX Design",
+    "tokens": [
+      {
+        "text": "5+ years",
+        "start": 7,
+        "end": 15,
+        "token_start": 5,
+        "token_end": 7,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "project management",
+        "start": 30,
+        "end": 48,
+        "token_start": 11,
+        "token_end": 12,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "2+ years",
+        "start": 60,
+        "end": 68,
+        "token_start": 15,
+        "token_end": 17,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "technical project",
+        "start": 72,
+        "end": 89,
+        "token_start": 19,
+        "token_end": 20,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "program management",
+        "start": 90,
+        "end": 108,
+        "token_start": 22,
+        "token_end": 23,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 11, "head": 5, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 19, "head": 15, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 22, "head": 15, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "\nCurrently enrolled in a full-time degree program and returning to the program after the completion of the internship.\nPublications or experience in fields related to in machine learning, AI, computer vision, natural language processing, computational neuroscience, optimization, computer science, statistics, applied mathematics, or data science.\nExperience solving analytical problems using quantitative approaches.\nAbility to manipulate and analyze large scale, high-dimensionality data from varying sources.\nExperience in utilizing theoretical and empirical research to solve problems.\nAbility to communicate research for public audiences of peers.\nKnowledge in a programming language.\nAbility to obtain and maintain work authorization in the country of employment in 2018.\n\nPREFERRED \nPursuing a Ph.D. degree in Computer Science or related field\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, NAACL, and EMNLP).\nExperience building systems based on machine learning and/or deep learning methods.\nResearch and software engineer experience demonstrated via an internship, work experience, or coding competitions.\nKnowledge in Python, Lua, C++, C, C# and/or Java.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "start": 801,
+        "end": 806,
+        "token_start": 137,
+        "token_end": 137,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 817,
+        "end": 833,
+        "token_start": 140,
+        "token_end": 141,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [{ "child": 140, "head": 137, "relationLabel": "DEGREE_IN" }]
+  },
+  {
+    "document": "\nCurrently enrolled in a full-time degree program and returning to the program after the completion of the internship.\nPublications or experience in fields related to in machine learning, AI, computer vision, natural language processing, computational neuroscience, optimization, computer science, statistics, applied mathematics, or data science.\nExperience solving analytical problems using quantitative approaches.\nAbility to manipulate and analyze large scale, high-dimensionality data from varying sources.\nExperience in utilizing theoretical and empirical research to solve problems.\nAbility to communicate research for public audiences of peers.\nKnowledge in a programming language.\nAbility to obtain and maintain work authorization in the country of employment in 2019.\n\nPREFERRED \nPursuing a Ph.D. degree in Computer Science or related field.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, NAACL, and EMNLP).\nExperience building systems based on machine learning and/or deep learning methods.\nResearch and software engineer experience demonstrated via an internship, work experience, or coding competitions.\nKnowledge in Python, Lua, C++, C, C# and/or Java.\n",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "start": 801,
+        "end": 806,
+        "token_start": 137,
+        "token_end": 137,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 817,
+        "end": 833,
+        "token_start": 140,
+        "token_end": 141,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [{ "child": 140, "head": 137, "relationLabel": "DEGREE_IN" }]
+  },
+  {
+    "document": "\nMS in a quantitative field such as Operations Research, Computer Science, Quantitative Finance, Math, Physics or a related Engineering degree\nKnowledge of Statistics & Probability (e.g. Hypothesis testing, Regression, Stochastic modeling, Markov Chains and etc.)\n7+ years experience in building models and developing algorithms for machine learning, statistics, mathematical programming, and simulation in industry and/or academia\n5+ years experience in managing and analyzing large-scale structured and unstructured data using R or Python\n7+ years experience with algorithms and optimizations using CPLEX or related tools\n7+ years experience in SQL and data modeling\n\nPREFERRED \nPhD in Operation Research or Industrial Engineering.\nFamiliarity with object-oriented programming languages (such as C++ or Java) and visualization tools (such as Tableau).\nExperience working with or in support of diverse communities.",
+    "tokens": [
+      {
+        "text": "MS",
+        "start": 1,
+        "end": 3,
+        "token_start": 1,
+        "token_end": 1,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Operations Research",
+        "start": 36,
+        "end": 55,
+        "token_start": 8,
+        "token_end": 9,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Computer Science",
+        "start": 57,
+        "end": 73,
+        "token_start": 11,
+        "token_end": 12,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Quantitative Finance",
+        "start": 75,
+        "end": 95,
+        "token_start": 14,
+        "token_end": 15,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Math",
+        "start": 97,
+        "end": 101,
+        "token_start": 17,
+        "token_end": 17,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Physics",
+        "start": 103,
+        "end": 110,
+        "token_start": 19,
+        "token_end": 19,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Engineering",
+        "start": 124,
+        "end": 135,
+        "token_start": 23,
+        "token_end": 23,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "7+ years",
+        "start": 264,
+        "end": 272,
+        "token_start": 48,
+        "token_end": 50,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "building models",
+        "start": 287,
+        "end": 302,
+        "token_start": 53,
+        "token_end": 54,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "developing algorithms",
+        "start": 307,
+        "end": 328,
+        "token_start": 56,
+        "token_end": 57,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "machine learning",
+        "start": 333,
+        "end": 349,
+        "token_start": 59,
+        "token_end": 60,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "statistics",
+        "start": 351,
+        "end": 361,
+        "token_start": 62,
+        "token_end": 62,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "mathematical programming",
+        "start": 363,
+        "end": 387,
+        "token_start": 64,
+        "token_end": 65,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "simulation",
+        "start": 393,
+        "end": 403,
+        "token_start": 68,
+        "token_end": 68,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "industry",
+        "start": 407,
+        "end": 415,
+        "token_start": 70,
+        "token_end": 70,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "academia",
+        "start": 423,
+        "end": 431,
+        "token_start": 72,
+        "token_end": 72,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 432,
+        "end": 440,
+        "token_start": 74,
+        "token_end": 76,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "managing",
+        "start": 455,
+        "end": 463,
+        "token_start": 79,
+        "token_end": 79,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "analyzing large-scale structured and unstructured data",
+        "start": 468,
+        "end": 522,
+        "token_start": 81,
+        "token_end": 88,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "R",
+        "start": 529,
+        "end": 530,
+        "token_start": 90,
+        "token_end": 90,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Python",
+        "start": 534,
+        "end": 540,
+        "token_start": 92,
+        "token_end": 92,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "7+ years",
+        "start": 541,
+        "end": 549,
+        "token_start": 94,
+        "token_end": 96,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "algorithms",
+        "start": 566,
+        "end": 576,
+        "token_start": 99,
+        "token_end": 99,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "optimizations",
+        "start": 581,
+        "end": 594,
+        "token_start": 101,
+        "token_end": 101,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "CPLEX",
+        "start": 601,
+        "end": 606,
+        "token_start": 103,
+        "token_end": 103,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "7+ years",
+        "start": 624,
+        "end": 632,
+        "token_start": 108,
+        "token_end": 110,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "SQL",
+        "start": 647,
+        "end": 650,
+        "token_start": 113,
+        "token_end": 113,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "data modeling",
+        "start": 655,
+        "end": 668,
+        "token_start": 115,
+        "token_end": 116,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "PhD",
+        "start": 681,
+        "end": 684,
+        "token_start": 120,
+        "token_end": 120,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Operation Research",
+        "start": 688,
+        "end": 706,
+        "token_start": 122,
+        "token_end": 123,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Industrial Engineering",
+        "start": 710,
+        "end": 732,
+        "token_start": 125,
+        "token_end": 126,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 8, "head": 1, "relationLabel": "DEGREE_IN" },
+      { "child": 11, "head": 1, "relationLabel": "DEGREE_IN" },
+      { "child": 14, "head": 1, "relationLabel": "DEGREE_IN" },
+      { "child": 17, "head": 1, "relationLabel": "DEGREE_IN" },
+      { "child": 19, "head": 1, "relationLabel": "DEGREE_IN" },
+      { "child": 23, "head": 1, "relationLabel": "DEGREE_IN" },
+      { "child": 53, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 56, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 59, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 62, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 64, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 68, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 70, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 72, "head": 48, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 79, "head": 74, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 81, "head": 74, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 90, "head": 74, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 92, "head": 74, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 99, "head": 94, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 101, "head": 94, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 103, "head": 94, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 113, "head": 108, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 115, "head": 108, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 122, "head": 120, "relationLabel": "DEGREE_IN" },
+      { "child": 125, "head": 120, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "\nPh.D. with 5+ years of experience, MS with 7+ years of experience, or BS with 10+ years of experience in Physics, Electrical Engineering, Computer Science, or a related technical field such us architecting, developing, and launching hardware/software projects and/or services\nDemonstrated knowledge dissemination through authored publications, international conference presentations or shipped products\nML/AI basics, and systems basics, including the requisite programming experience (python or equivalent, and at least one systems-level programming language: C, C++, Java, Go, Rust, or equivalent)\nExperience with data analytics  (data collection, storage, cleaning, processing with statistics, visualization, and other data related processes)\nExperience working on communication systems in a research and/or development capacity\nTechnical leadership in leading research efforts with a demonstrated experience handling multiple priorities\n\nPREFERRED \nDeep understanding of how culture and team dynamics create exceptional teams",
+    "tokens": [],
+    "relations": []
+  },
+  {
+    "document": "\nGraduating with a Ph.D. in Computer Science or related field or relevant experience.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience leading a team in solving analytical problems using quantitative approaches.\nExperience manipulating and analyzing data from different sources.\nExperience in leading theoretical and empirical research and for answering questions with research.\nExperience communicating research for public audiences of peers.\nKnowledge in a programming language.\nMust be able to obtain and maintain work authorization in the country of employment in 2018.\n\nPREFERRED \nPrevious internship(s) and/or research assistantship(s) in an AI research organization.\nExperience in developing and debugging in C/C++, Python, C# and/or Java.\nHas previously completed a postdoctoral role in AI research.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "start": 19,
+        "end": 24,
+        "token_start": 4,
+        "token_end": 4,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 28,
+        "end": 44,
+        "token_start": 6,
+        "token_end": 7,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [{ "child": 6, "head": 4, "relationLabel": "DEGREE_IN" }]
+  },
+  {
+    "document": "\n12+ years of research experience, in-house or as a vendor (including applicable consulting experience)\nPh.D in human-computer interaction, human factors, cognitive psychology or related field\nUser safety demonstrated knowledge through authored publications, international conference presentations or shipped products\nExperience collaborating and working across teams to develop concepts that advance the entire product pipeline (hardware, software, computer vision, etc.)",
+    "tokens": [
+      {
+        "text": "12+ years",
+        "start": 1,
+        "end": 10,
+        "token_start": 1,
+        "token_end": 3,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "research",
+        "start": 14,
+        "end": 22,
+        "token_start": 5,
+        "token_end": 5,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Ph.D",
+        "start": 104,
+        "end": 108,
+        "token_start": 22,
+        "token_end": 24,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "human-computer interaction",
+        "start": 112,
+        "end": 138,
+        "token_start": 26,
+        "token_end": 29,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "human factors",
+        "start": 140,
+        "end": 153,
+        "token_start": 31,
+        "token_end": 32,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "cognitive psychology",
+        "start": 155,
+        "end": 175,
+        "token_start": 34,
+        "token_end": 35,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 5, "head": 1, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 26, "head": 22, "relationLabel": "DEGREE_IN" },
+      { "child": 31, "head": 22, "relationLabel": "DEGREE_IN" },
+      { "child": 34, "head": 22, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "\nPhD with 3+ years, or MS with 5+ years of experience in a field emphasizing people research in organizations (e.g., Industrial/Organizational Psychology, Organizational Behavior, Labor Economics, Management, Policy Analysis, etc.)\n3+ years of experience conducting quantitative people research in an organization or consulting environment, including working with stakeholders to understand and clarify their people research needs, and communicating analyses to technical and non-technical audiences\nExperience managing and analyzing structured and unstructured data\nExperience communicating technical results to technical and non-technical audiences\nExperience operating in a consultative capacity with stakeholders\nExperience defining a roadmap of data requirements, metrics reporting, and research to drive insights\nExperience in communicating and weaving together multiple data sources and deliver insights to stakeholders\nKnowledge of statistical analysis (e.g., descriptive statistics and knowledge with statistical significance), quantitative research, and experience gathering and interpreting data\n\nPREFERRED \n3+ years of experience applying multivariate statistical methods to people research problems in organizations\n5+ years of progressive consulting or corporate work experience focused on using data to uncover insights that drive action and communicating analyses to technical and non-technical audiences\nRelevant experience includes analytics, management consulting, sales operations, finance, compensation, or related fields\nPeople management experience\nExperience developing tools, conducting empirical research, practical implementation, knowledge of best practices in at least two of the following areas: employee engagement, performance management, diversity, compensation (e.g., pay equity), or retention\nExperience conceiving, developing, running pilot tests, implementing, and continuously improving large-scale people processes\nExperience managing and analyzing structured and unstructured data with R and SQL",
+    "tokens": [
+      {
+        "text": "5+ years",
+        "start": 31,
+        "end": 39,
+        "token_start": 10,
+        "token_end": 12,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "emphasizing people research in organizations",
+        "start": 65,
+        "end": 109,
+        "token_start": 18,
+        "token_end": 22,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Industrial",
+        "start": 117,
+        "end": 127,
+        "token_start": 26,
+        "token_end": 26,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Organizational Psychology",
+        "start": 128,
+        "end": 153,
+        "token_start": 28,
+        "token_end": 29,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Organizational Behavior",
+        "start": 155,
+        "end": 178,
+        "token_start": 31,
+        "token_end": 32,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Labor Economics",
+        "start": 180,
+        "end": 195,
+        "token_start": 34,
+        "token_end": 35,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Management",
+        "start": 197,
+        "end": 207,
+        "token_start": 37,
+        "token_end": 37,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Policy Analysis",
+        "start": 209,
+        "end": 224,
+        "token_start": 39,
+        "token_end": 40,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "start": 232,
+        "end": 240,
+        "token_start": 46,
+        "token_end": 48,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "conducting quantitative people research",
+        "start": 255,
+        "end": 294,
+        "token_start": 51,
+        "token_end": 54,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "working with stakeholders",
+        "start": 351,
+        "end": 376,
+        "token_start": 63,
+        "token_end": 65,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "communicating",
+        "start": 436,
+        "end": 449,
+        "token_start": 76,
+        "token_end": 76,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "start": 1119,
+        "end": 1127,
+        "token_start": 176,
+        "token_end": 178,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "statistical methods",
+        "start": 1164,
+        "end": 1183,
+        "token_start": 183,
+        "token_end": 184,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 1229,
+        "end": 1237,
+        "token_start": 192,
+        "token_end": 194,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "progressive consulting",
+        "start": 1241,
+        "end": 1263,
+        "token_start": 196,
+        "token_end": 197,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "corporate work experience",
+        "start": 1267,
+        "end": 1292,
+        "token_start": 199,
+        "token_end": 201,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "using data to uncover insights that drive action",
+        "start": 1304,
+        "end": 1352,
+        "token_start": 204,
+        "token_end": 211,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "communicating",
+        "start": 1357,
+        "end": 1370,
+        "token_start": 213,
+        "token_end": 213,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 18, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 26, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 28, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 31, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 34, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 37, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 39, "head": 10, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 51, "head": 46, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 63, "head": 46, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 76, "head": 46, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 183, "head": 176, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 196, "head": 192, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 199, "head": 192, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 204, "head": 192, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 213, "head": 192, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "\nCurrently holding a faculty, industry, or government researcher position.\nPh.D. and publications in machine learning, AI, computer science, statistics, applied mathematics, data science, or related technical fields.\nExperience leading a team in solving analytical problems using quantitative approaches.\nExperience solving analytical problems using quantitative approaches.\nExperience manipulating and analyzing data from different sources.\nExperience in theoretical and empirical research and for answering questions with research.\nAbility to communicate research.\nKnowledge in some programming language.\nTraduction franaise -  minimales:\nOccuper actuellement un poste de chercheur dans une facult, une industrie ou un gouvernement.\nDoctorat et des publications sur l'apprentissage automatique, l'intelligence artificielle, l'informatique, les statistiques, les mathmatiques appliques, la science des donnes ou des domaines techniques connexes.\nExprience de la direction dune quipe dans la rsolution de problmes analytiques  laide dapproches quantitatives.\nExprience en manipulation et analyse de donnes provenant de diffrentes sources.\nRpondre  des questions avec la recherche\ncapacit  communiquer la recherche.\nConnaissances dans certains langages de programmation.\n\nPREFERRED \n1+ year(s) of work experience in within a university, industry, or government lab(s), in a role with primary emphasis on AI research.\nExperience driving original scholarship in collaboration with a team.\nFirst-author publications at peer-reviewed AI conferences (e.g. NIPS, CVPR, ICML, ICLR, ICCV, and ACL).\nExperience in developing and debugging in C/C++, Python, C# and/or Java.\nTraduction franaise -  prfres:\n1 an ou plus d'exprience de travail dans une universit, une industrie ou un laboratoire gouvernemental, dans un rle principalement ax sur la recherche sur l'IA.\nExprience de la conduite de la bourse originale en collaboration avec une quipe.\nPublications du premier auteur lors de confrences sur lIA examines par des pairs (par exemple NIPS, CVPR, ICML, ICLR, ICCV et ACL).\nExprience dans le dveloppement et le dbogage en C / C ++, Python, C # et / ou Java.",
+    "tokens": [
+      {
+        "text": "Ph.D.",
+        "start": 75,
+        "end": 80,
+        "token_start": 14,
+        "token_end": 14,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "machine learning",
+        "start": 101,
+        "end": 117,
+        "token_start": 18,
+        "token_end": 19,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "AI",
+        "start": 119,
+        "end": 121,
+        "token_start": 21,
+        "token_end": 21,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "computer science",
+        "start": 123,
+        "end": 139,
+        "token_start": 23,
+        "token_end": 24,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "statistics",
+        "start": 141,
+        "end": 151,
+        "token_start": 26,
+        "token_end": 26,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "applied mathematics",
+        "start": 153,
+        "end": 172,
+        "token_start": 28,
+        "token_end": 29,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "data science",
+        "start": 174,
+        "end": 186,
+        "token_start": 31,
+        "token_end": 32,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "1+ year(s)",
+        "start": 1282,
+        "end": 1292,
+        "token_start": 210,
+        "token_end": 213,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "industry",
+        "start": 1336,
+        "end": 1344,
+        "token_start": 222,
+        "token_end": 222,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 18, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 21, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 23, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 26, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 28, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 31, "head": 14, "relationLabel": "DEGREE_IN" },
+      { "child": 222, "head": 210, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  }
+]

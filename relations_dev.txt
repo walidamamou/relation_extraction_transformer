@@ -1,0 +1,1403 @@
+[
+  {
+    "document": "Bachelor's degree in Mechanical Engineering or Physical Science 3+ years track record of developing or specifying fiber optic cables and connector related products Knowledge of fiber optic component, cabling, and interconnect products, technologies, and standards Experience in statistical data analysis Experience with product life cycle management (PLM) process Experience providing solutions to problems and meeting deadlines Experience engaging stakeholders PREFERRED Advanced degree Experience using a software tool for statistical data analysis such as JMP Experience using Agile as product life-cycle management tool Data center or other mission critical development experience",
+    "tokens": [
+      {
+        "text": "Bachelor",
+        "start": 0,
+        "end": 8,
+        "token_start": 0,
+        "token_end": 0,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Mechanical Engineering",
+        "start": 21,
+        "end": 43,
+        "token_start": 4,
+        "token_end": 5,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Physical Science",
+        "start": 47,
+        "end": 63,
+        "token_start": 7,
+        "token_end": 8,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "3+ years",
+        "start": 64,
+        "end": 72,
+        "token_start": 9,
+        "token_end": 11,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "developing",
+        "start": 89,
+        "end": 99,
+        "token_start": 15,
+        "token_end": 15,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "fiber optic cables",
+        "start": 114,
+        "end": 132,
+        "token_start": 18,
+        "token_end": 20,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "connector related products",
+        "start": 137,
+        "end": 163,
+        "token_start": 22,
+        "token_end": 24,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 4, "head": 0, "relationLabel": "DEGREE_IN" },
+      { "child": 7, "head": 0, "relationLabel": "DEGREE_IN" },
+      { "child": 15, "head": 9, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 18, "head": 9, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 22, "head": 9, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "10+ years of software engineering work experience. Technical experience in release automation engineering, CI/CD or related roles. Experience building and leading a software organization through product design, delivery and commercialization of consumer electronics devices. Experience recruiting and managing technical teams, including performance management. BS/MS in Computer Science. Experience in leading timeline, multi-partner initiatives. Organizational communication and coordination experience. PREFERRED 5+ years of experience with hands-on technical management, release engineering, tools engineering, DevOps, or related area.",
+    "tokens": [
+      {
+        "text": "10+ years",
+        "start": 0,
+        "end": 9,
+        "token_start": 0,
+        "token_end": 2,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "software engineering",
+        "start": 13,
+        "end": 33,
+        "token_start": 4,
+        "token_end": 5,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 515,
+        "end": 523,
+        "token_start": 77,
+        "token_end": 79,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "technical management",
+        "start": 552,
+        "end": 572,
+        "token_start": 86,
+        "token_end": 87,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "release engineering",
+        "start": 574,
+        "end": 593,
+        "token_start": 89,
+        "token_end": 90,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "tools engineering",
+        "start": 595,
+        "end": 612,
+        "token_start": 92,
+        "token_end": 93,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "DevOps",
+        "start": 614,
+        "end": 620,
+        "token_start": 95,
+        "token_end": 95,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BS/MS",
+        "start": 361,
+        "end": 366,
+        "token_start": 53,
+        "token_end": 55,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 370,
+        "end": 386,
+        "token_start": 57,
+        "token_end": 58,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 4, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 86, "head": 77, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 89, "head": 77, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 92, "head": 77, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 95, "head": 77, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 57, "head": 53, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "3+ years Swift & Objective-C and experience with iOS internals Experience building an entire app from scratch and ideally a portfolio of apps featured in the App Store Someone who knows every trick in the book on UI transitions, network communication and memory/battery efficiency Strong UI/design skill experience is a plus",
+    "tokens": [
+      {
+        "text": "3+ years",
+        "start": 0,
+        "end": 8,
+        "token_start": 0,
+        "token_end": 2,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "Swift & Objective-C",
+        "start": 9,
+        "end": 28,
+        "token_start": 3,
+        "token_end": 7,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [{ "child": 3, "head": 0, "relationLabel": "EXPERIENCE_IN" }]
+  },
+  {
+    "document": "8+ years experience in software engineering leadership 5+ years people management experience including managing leaders and managing remotely across regions Strategic thinker with proven track record of transforming operations to provide customer experience through innovation and improvement Track record of working with VP, C-level Executives Experience deploying operational support models across enterprise organizations Communication/presentations experience Experience working with all levels of management internally and externally Experience meeting objectives in an entrepreneurial environment Collaboration and relationship-building experience BA/BS degree or higher",
+    "tokens": [
+      {
+        "text": "8+ years",
+        "start": 0,
+        "end": 8,
+        "token_start": 0,
+        "token_end": 2,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "software engineering",
+        "start": 23,
+        "end": 43,
+        "token_start": 5,
+        "token_end": 6,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 55,
+        "end": 63,
+        "token_start": 8,
+        "token_end": 10,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "people management",
+        "start": 64,
+        "end": 81,
+        "token_start": 11,
+        "token_end": 12,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "managing leaders",
+        "start": 103,
+        "end": 119,
+        "token_start": 15,
+        "token_end": 16,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 5, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 11, "head": 8, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 15, "head": 8, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "BS degree in Computer Science or related field. 7+ years C++ experience, including C++11 features and principles. 5+ years experience creating software for real-time environments such as games or robotics. 2+ years experience managing software engineers. Proven track record of software development, including shipping one or more products on large code bases that span platforms and tools. Problem solving and optimization experience. Communication experience and demonstrated experience working across disciplines and teams to drive solutions. PREFERRED Hands-on experience with 3D computer vision algorithms including Calibration, SLAM, Reconstruction, Mapping, Localization, Sensor Fusion, State Estimation and Image Processing Experience with designing (products or open-source/git software) of inertial/optical sensing devices Publication in leading workshops or conferences such as CVPR, ECCV, ICCV, SIGGRAPH, ICCP, RSS, ICRA, etc.",
+    "tokens": [
+      {
+        "text": "BS",
+        "start": 0,
+        "end": 2,
+        "token_start": 0,
+        "token_end": 0,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 13,
+        "end": 29,
+        "token_start": 3,
+        "token_end": 4,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "7+ years",
+        "start": 48,
+        "end": 56,
+        "token_start": 9,
+        "token_end": 11,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "C++",
+        "start": 57,
+        "end": 60,
+        "token_start": 12,
+        "token_end": 12,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C++11",
+        "start": 83,
+        "end": 88,
+        "token_start": 16,
+        "token_end": 16,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 114,
+        "end": 122,
+        "token_start": 21,
+        "token_end": 23,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "creating software for real-time environments",
+        "start": 134,
+        "end": 178,
+        "token_start": 25,
+        "token_end": 31,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "games",
+        "start": 187,
+        "end": 192,
+        "token_start": 34,
+        "token_end": 34,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "robotics",
+        "start": 196,
+        "end": 204,
+        "token_start": 36,
+        "token_end": 36,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "2+ years",
+        "start": 206,
+        "end": 214,
+        "token_start": 38,
+        "token_end": 40,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "managing software engineers",
+        "start": 226,
+        "end": 253,
+        "token_start": 42,
+        "token_end": 44,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 3, "head": 0, "relationLabel": "DEGREE_IN" },
+      { "child": 12, "head": 9, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 16, "head": 9, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 25, "head": 21, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 34, "head": 21, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 36, "head": 21, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 42, "head": 38, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "8+ years of development experience with Python and Go or C++ Experience with SDN (e.g. OpenFlow, VPP, Open vSwitch) A proven track record of performing on a winning team with a demonstration of bringing products and services to market. A proven track record of system software development. A proven track record of developing software for extremely large scale, distributed environments. A deep understanding of complex system integration and methodologies for proving the correct operation under nominal and faulted conditions of a hyperscale cloud environment. A deep understanding of developing for high availability and its inherent problems. A deep understanding of containers and container clusters such as kubernetes. A deep understanding of virtual machine environment including VMware, KVM, or Xen. Understanding of Open Systems Interconnection Reference Model (OSI-RM), the TCP/IP stack, and development experience in L2, L3, L4. Preferred Tech and Prof Experience Familiarity with networking protocols which might include: BGP, DHCP, DNS, OSPF, IGMP, IPv4/IPv6, IS-IS, and others. Familiarity with Network function virtualization (NFV) functionality and network encapsulation including L4 Load Balancers, Firewalls, etc. Working knowledge of git and CICD tools such as Jenkins and Zuul. EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .",
+    "tokens": [
+      {
+        "text": "8+ years",
+        "start": 0,
+        "end": 8,
+        "token_start": 0,
+        "token_end": 2,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "development",
+        "start": 12,
+        "end": 23,
+        "token_start": 4,
+        "token_end": 4,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Python",
+        "start": 40,
+        "end": 46,
+        "token_start": 7,
+        "token_end": 7,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C++",
+        "start": 57,
+        "end": 60,
+        "token_start": 11,
+        "token_end": 11,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 4, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 7, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 11, "head": 0, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "Strong problem solving and analytical skills in the areas of Linux OS, packaged software, middleware and Cloud virtualization enviornments Strong SW skills with good working knowledge of Cloud, server virtualization hypervisor technology, storage SAN/fabric and network topologies Strong software engineering skills and experience in the areas Python, Java, PySpark, Bash, KShell, SQL database, noSQL database, syslog device data Strong working knowledge of all processor, memory, storage and network statistics analytics and measurement techniques Experience in working with Elastic, which will be used as the spurce of the logs and metrics data for the performance analysis Knowledge of Dynatrace and other application monitoring tools and their API interfaces Must have 2+ years in performance modeling and analysis of IT infrastructure environments that require high availability and high user access concurrency Preferred Tech and Prof Experience Outstanding written and verbal communications - Excellent collaboration skills Proficiency in computer/SoC architecture and performance trade-offs Knowledge and experience with simulators and performance monitoring debugging frameworks/tools Ability to conduct experiments in all phases of design, gathering and analyzing data; and utilize scripting/spread sheet to document and present the results BS / MS in EE/CS is ; 5 Years of related experience EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .",
+    "tokens": [
+      {
+        "text": "2+ years",
+        "start": 773,
+        "end": 781,
+        "token_start": 125,
+        "token_end": 127,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "performance modeling",
+        "start": 785,
+        "end": 805,
+        "token_start": 129,
+        "token_end": 130,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "IT infrastructure",
+        "start": 822,
+        "end": 839,
+        "token_start": 134,
+        "token_end": 135,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "access concurrency",
+        "start": 898,
+        "end": 916,
+        "token_start": 144,
+        "token_end": 145,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BS / MS",
+        "start": 1351,
+        "end": 1358,
+        "token_start": 210,
+        "token_end": 212,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "EE",
+        "start": 1362,
+        "end": 1364,
+        "token_start": 214,
+        "token_end": 214,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "CS",
+        "start": 1365,
+        "end": 1367,
+        "token_start": 216,
+        "token_end": 216,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 129, "head": 125, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 134, "head": 125, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 144, "head": 125, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 214, "head": 210, "relationLabel": "DEGREE_IN" },
+      { "child": 216, "head": 210, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "Experience in backend services, systems, and data infrastructure. BS/MS in Computer Science or a related technical field. 5+ years of work experience architecting, developing, and shipping software products and/or services. 4+ years of experience managing cross-functional engineering teams.",
+    "tokens": [
+      {
+        "text": "BS/MS",
+        "start": 66,
+        "end": 71,
+        "token_start": 11,
+        "token_end": 13,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 75,
+        "end": 91,
+        "token_start": 15,
+        "token_end": 16,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "5+ years",
+        "start": 122,
+        "end": 130,
+        "token_start": 23,
+        "token_end": 25,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "architecting",
+        "start": 150,
+        "end": 162,
+        "token_start": 29,
+        "token_end": 29,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "developing",
+        "start": 164,
+        "end": 174,
+        "token_start": 31,
+        "token_end": 31,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "4+ years",
+        "start": 224,
+        "end": 232,
+        "token_start": 40,
+        "token_end": 42,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "managing cross-functional engineering teams",
+        "start": 247,
+        "end": 290,
+        "token_start": 45,
+        "token_end": 50,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 15, "head": 11, "relationLabel": "DEGREE_IN" },
+      { "child": 29, "head": 23, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 31, "head": 23, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 45, "head": 40, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "experience: 5 + years of full-stack software development experience to include 5+ years of C# (or similar) experience with the ability to contribute to technical architecture across web, mobile, middle tier, data pipeline and storage components. 5 + years of experience delivering scalable and resilient services at large enterprise scale, including experience in data platforms including large-scale analytics on relational, structured and unstructured data. 3+ years of experience as a SWE lead in an agile environment including 1+ years of experience operating in a DevOps model. 2+ years of experience designing secure, scalable and cost-efficient PaaS services on the Microsoft Azure (or similar) platform. Desired attributes: People management experience, in addition to multiple years of experience mentoring early in career talent. Project Dev Lead experience in an agile environment. Partners with Product Owner and Scrum Master to optimize implementation of agile practices. Experience with microservices, serverless architectures, Azure IoT suite, and the Azure event grid. Passion for innovation and a vision for how technology can add ambient intelligence to the workplace. Can articulate the opportunity and challenges of enterprise IoT, from devices to big data Experience shaping a DevOps culture with a vision for building and nurturing an innovative culture while maintaining a Live Site focus. Capability to work independently on the most complex code contributions of a feature. Experience with applying data science and machine learning to unlock new capabilities. Passion for mentoring early in career engineering talent. Expertise in latest web client technology frameworks (e.g., Angular, React, etc.). Deep customer empathy and vision for innovative productivity scenarios Track record as someone who can solve the tough technical challenges If you possess the above, and are a strong perpetuator of an action-oriented and fun work culture this might be the role for you! #CSEO #EUSEJOBS",
+    "tokens": [
+      {
+        "text": "5 + years",
+        "start": 12,
+        "end": 21,
+        "token_start": 2,
+        "token_end": 4,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "full-stack software development",
+        "start": 25,
+        "end": 56,
+        "token_start": 6,
+        "token_end": 10,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 79,
+        "end": 87,
+        "token_start": 14,
+        "token_end": 16,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "C#",
+        "start": 91,
+        "end": 93,
+        "token_start": 18,
+        "token_end": 19,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5 + years",
+        "start": 246,
+        "end": 255,
+        "token_start": 47,
+        "token_end": 49,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "delivering scalable and resilient services",
+        "start": 270,
+        "end": 312,
+        "token_start": 52,
+        "token_end": 56,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "data platforms",
+        "start": 364,
+        "end": 378,
+        "token_start": 65,
+        "token_end": 66,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "large-scale analytics",
+        "start": 389,
+        "end": 410,
+        "token_start": 68,
+        "token_end": 71,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "start": 460,
+        "end": 468,
+        "token_start": 80,
+        "token_end": 82,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "SWE lead",
+        "start": 488,
+        "end": 496,
+        "token_start": 87,
+        "token_end": 88,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "1+ years",
+        "start": 531,
+        "end": 539,
+        "token_start": 94,
+        "token_end": 96,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "DevOps",
+        "start": 569,
+        "end": 575,
+        "token_start": 102,
+        "token_end": 102,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "2+ years",
+        "start": 583,
+        "end": 591,
+        "token_start": 105,
+        "token_end": 107,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "designing",
+        "start": 606,
+        "end": 615,
+        "token_start": 110,
+        "token_end": 110,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 6, "head": 2, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 18, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 52, "head": 47, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 65, "head": 47, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 68, "head": 47, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 87, "head": 80, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 102, "head": 94, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 110, "head": 105, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "BS in Electrical Engineering or Computer Engineering, or related Engineering Degree, with 3+ years of industry experience. 3+ years of experience with PCB design with both integrated and discrete circuits, and high-speed interfaces. Experience with development and bring-up of data center or Enterprise infrastructure system equipment. Experience with analyzing and resolving system hardware issues. PREFERRED MS in electrical engineering or computer engineering. 5+ years of industry experience. Familiar with storage server architectures with HDD. Experience with end-to-end enabling, design, and deployment cycle of a product. Experience with working with thermal, mechanical, management firmware, system firmware, and software teams during product development. Experience with design and troubleshooting data buses used in server such as PCIe, SAS, SATA, I2C. Experience with industry standard EDA tools for developing PCB designs. Knowledge of using Linux for testing.",
+    "tokens": [
+      {
+        "text": "BS",
+        "start": 0,
+        "end": 2,
+        "token_start": 0,
+        "token_end": 0,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Electrical Engineering",
+        "start": 6,
+        "end": 28,
+        "token_start": 2,
+        "token_end": 3,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Computer Engineering",
+        "start": 32,
+        "end": 52,
+        "token_start": 5,
+        "token_end": 6,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Engineering",
+        "start": 65,
+        "end": 76,
+        "token_start": 10,
+        "token_end": 10,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "3+ years",
+        "start": 90,
+        "end": 98,
+        "token_start": 14,
+        "token_end": 16,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "industry",
+        "start": 102,
+        "end": 110,
+        "token_start": 18,
+        "token_end": 18,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "start": 123,
+        "end": 131,
+        "token_start": 21,
+        "token_end": 23,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "PCB design",
+        "start": 151,
+        "end": 161,
+        "token_start": 27,
+        "token_end": 28,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "integrated",
+        "start": 172,
+        "end": 182,
+        "token_start": 31,
+        "token_end": 31,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "discrete circuits",
+        "start": 187,
+        "end": 204,
+        "token_start": 33,
+        "token_end": 34,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "MS",
+        "start": 410,
+        "end": 412,
+        "token_start": 68,
+        "token_end": 68,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "electrical engineering",
+        "start": 416,
+        "end": 438,
+        "token_start": 70,
+        "token_end": 71,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "computer engineering",
+        "start": 442,
+        "end": 462,
+        "token_start": 73,
+        "token_end": 74,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "5+ years",
+        "start": 464,
+        "end": 472,
+        "token_start": 76,
+        "token_end": 78,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "industry experience",
+        "start": 476,
+        "end": 495,
+        "token_start": 80,
+        "token_end": 81,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 2, "head": 0, "relationLabel": "DEGREE_IN" },
+      { "child": 5, "head": 0, "relationLabel": "DEGREE_IN" },
+      { "child": 10, "head": 0, "relationLabel": "DEGREE_IN" },
+      { "child": 18, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 27, "head": 21, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 31, "head": 21, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 33, "head": 21, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 70, "head": 68, "relationLabel": "DEGREE_IN" },
+      { "child": 73, "head": 68, "relationLabel": "DEGREE_IN" },
+      { "child": 80, "head": 76, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "Basic : Programming experience in C#, Java, or C++ BS in Computer Science, Computer Engineering, or a related field Preferred : Involvement in designing, implementing and shipping complex enterprise software products/services Familiarity with highly scalable distributed micro services handling thousands of requests per second Strong hands-on ability to write secure, reliable & maintainable code and to test & debug it Involvement in building large-scale services on cloud platforms such as Azure or AWS Excellent communication skills, including ability to write concise technical docs and present ideas A passion for software design with a talent for independently solving complex technical problems Passion for improving software quality, performance and reliability and engineering excellence Knowledge of modern engineering practices like automated deployments with integrated quality gates and experience working with modern version control systems like Git Experience with multithreading and asynchronous processing Deep knowledge and experience with object oriented design Experience with pair programming Experience with databases (SQL or noSQL) a plus Web Application development experience a plus Hands on experience with configuration and/or controlled experimentation a plus Experience with multimedia and networking is a plus Experience with multi-platform support is a plus (Windows, Mac, iOS, Android, Linux) Experience with data analysis and machine learning is a plus These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter. walid",
+    "tokens": [
+      {
+        "text": "BS",
+        "start": 51,
+        "end": 53,
+        "token_start": 12,
+        "token_end": 12,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 57,
+        "end": 73,
+        "token_start": 14,
+        "token_end": 15,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "Computer Engineering",
+        "start": 75,
+        "end": 95,
+        "token_start": 17,
+        "token_end": 18,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 14, "head": 12, "relationLabel": "DEGREE_IN" },
+      { "child": 17, "head": 12, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "Bachelor's Degree in Computing Science or a related subject Java experience Unix experience English: Fluent Preferred Tech and Prof Experience N/A EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .",
+    "tokens": [
+      {
+        "text": "Bachelor",
+        "start": 0,
+        "end": 8,
+        "token_start": 0,
+        "token_end": 0,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computing Science",
+        "start": 21,
+        "end": 38,
+        "token_start": 4,
+        "token_end": 5,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [{ "child": 4, "head": 0, "relationLabel": "DEGREE_IN" }]
+  },
+  {
+    "document": "1+ years development experience on Java stack AppConnect / API's experience is added advantage. Compute, Network and Storage Monitoring Tools (Ex: Netcool) Application Performance Tools (IBM APM) Cloud operations and Automation Tools (VmWare, ICAM, ...) Proven Record of developing enterprise class products and applications. Preferred Tech and Prof Experience None EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .",
+    "tokens": [
+      {
+        "text": "1+ years",
+        "start": 0,
+        "end": 8,
+        "token_start": 0,
+        "token_end": 2,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "development",
+        "start": 9,
+        "end": 20,
+        "token_start": 3,
+        "token_end": 3,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Java stack",
+        "start": 35,
+        "end": 45,
+        "token_start": 6,
+        "token_end": 7,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "AppConnect",
+        "start": 46,
+        "end": 56,
+        "token_start": 8,
+        "token_end": 8,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "API",
+        "start": 59,
+        "end": 62,
+        "token_start": 10,
+        "token_end": 10,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 3, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 6, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 8, "head": 0, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 10, "head": 0, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "\n5+ years of software engineering work experience, including hands-on technical management\n5+ years coding in one of the following languages: C++, Java, and/or PHP\nDemonstrated ability to recruit and manage technical teams, including performance management\nBA/BS in Computer Science (In lieu of degree, 4+ years relevant work experience)",
+    "tokens": [
+      {
+        "text": "5+ years",
+        "start": 1,
+        "end": 9,
+        "token_start": 1,
+        "token_end": 3,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "software engineering",
+        "start": 13,
+        "end": 33,
+        "token_start": 5,
+        "token_end": 6,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "technical management",
+        "start": 70,
+        "end": 90,
+        "token_start": 14,
+        "token_end": 15,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "5+ years",
+        "start": 91,
+        "end": 99,
+        "token_start": 17,
+        "token_end": 19,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "coding",
+        "start": 100,
+        "end": 106,
+        "token_start": 20,
+        "token_end": 20,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C++",
+        "start": 142,
+        "end": 145,
+        "token_start": 28,
+        "token_end": 28,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Java",
+        "start": 147,
+        "end": 151,
+        "token_start": 30,
+        "token_end": 30,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "PHP",
+        "start": 160,
+        "end": 163,
+        "token_start": 33,
+        "token_end": 33,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BA/BS",
+        "start": 257,
+        "end": 262,
+        "token_start": 48,
+        "token_end": 50,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 266,
+        "end": 282,
+        "token_start": 52,
+        "token_end": 53,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "4+ years",
+        "start": 303,
+        "end": 311,
+        "token_start": 60,
+        "token_end": 62,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "relevant work experience)",
+        "start": 312,
+        "end": 337,
+        "token_start": 63,
+        "token_end": 66,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 5, "head": 1, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 14, "head": 1, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 20, "head": 17, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 28, "head": 17, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 30, "head": 17, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 33, "head": 17, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 52, "head": 48, "relationLabel": "DEGREE_IN" },
+      { "child": 63, "head": 60, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "Experience being technical, hands-on and a people manager for technical teams Experience leading, technically-challenging, cross-functional infrastructure projects from conception to end Experience with Unix internals (especially FreeBSD and Linux) Experience with multi-node cluster handling live traffic Knowledge of TCP/IP, experience with network programming Experience building and scaling distributed available systems 8+ years of work experience in software engineering, including 3+ years of proven hands-on technical management experience of software engineers BS/MS in Computer Science (In lieu of degree, work experience)",
+    "tokens": [
+      {
+        "text": "8+ years",
+        "start": 425,
+        "end": 433,
+        "token_start": 66,
+        "token_end": 68,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "software engineering",
+        "start": 456,
+        "end": 476,
+        "token_start": 73,
+        "token_end": 74,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "3+ years",
+        "start": 488,
+        "end": 496,
+        "token_start": 77,
+        "token_end": 79,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "technical management",
+        "start": 516,
+        "end": 536,
+        "token_start": 85,
+        "token_end": 86,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "software engineers",
+        "start": 551,
+        "end": 569,
+        "token_start": 89,
+        "token_end": 90,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BS/MS",
+        "start": 570,
+        "end": 575,
+        "token_start": 91,
+        "token_end": 93,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 579,
+        "end": 595,
+        "token_start": 95,
+        "token_end": 96,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 73, "head": 66, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 85, "head": 77, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 89, "head": 77, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 95, "head": 91, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "Experience with Golang (Go Programming Language) Experience with Agile software development Strong debug skills, effective verbal and written communication skills, team oriented Preferred Tech and Prof Experience Experience with Kubernetes, microservices architecture, and Docker containers Familiarity with the Linux OS GitHub, JIRA , RESTful APIs, Agile tools EO Statement IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. .",
+    "tokens": [],
+    "relations": []
+  },
+  {
+    "document": "Experience with C/C++ and Python. Experience with LabWindows/CVI, LabVIEW and/or TestStand. Experience developing software that interfaces and controls hardware devices over USB/serial/network etc. Knowledge of displays, cameras, and IMU calibration and calibration requirements. Knowledge of databases. Knowledge with configuration management such as Ansible. Knowledge developing solutions in both Linux and Windows environments. Proven experience introducing and qualifying manufacturing test solutions to production facilities. Experience designing and executing development projects with a design of experiment approach (DOE) to service, troubleshoot, and solve engineering problems. Knowledge in statistical methods (6s, SPC, Cpk) for data analysis in production control processes. PREFERRED Bachelors degree, BSEE or BS Computer Engineering with 5+ years experience.",
+    "tokens": [],
+    "relations": []
+  },
+  {
+    "document": "Basic : A BS/MS in Computer Science or related field Preferred : 5+ years of programming experience writing code in Java, C++, C#, or C or other object-oriented programming language Experience developing and testing computer software and/or online services Strong coding, debugging and problem-solving skills Strong knowledge of object-oriented programming language paradigms Great communication skills to collaborate cross-group and work effectively within the team Expertise in web or mobile application development Expertise in relational databases, distributed systems and/or big data technologies Experience in developing large scale services Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.",
+    "tokens": [
+      {
+        "text": "BS/MS",
+        "start": 10,
+        "end": 15,
+        "token_start": 3,
+        "token_end": 5,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 19,
+        "end": 35,
+        "token_start": 7,
+        "token_end": 8,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "5+ years",
+        "start": 65,
+        "end": 73,
+        "token_start": 14,
+        "token_end": 16,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "programming",
+        "start": 77,
+        "end": 88,
+        "token_start": 18,
+        "token_end": 18,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "code",
+        "start": 108,
+        "end": 112,
+        "token_start": 21,
+        "token_end": 21,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Java",
+        "start": 116,
+        "end": 120,
+        "token_start": 23,
+        "token_end": 23,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C++",
+        "start": 122,
+        "end": 125,
+        "token_start": 25,
+        "token_end": 25,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C#",
+        "start": 127,
+        "end": 129,
+        "token_start": 27,
+        "token_end": 28,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C",
+        "start": 134,
+        "end": 135,
+        "token_start": 31,
+        "token_end": 31,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "object-oriented programming",
+        "start": 145,
+        "end": 172,
+        "token_start": 34,
+        "token_end": 37,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 7, "head": 3, "relationLabel": "DEGREE_IN" },
+      { "child": 18, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 21, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 23, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 25, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 27, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 31, "head": 14, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 34, "head": 14, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "Skills & : Exceptional management skills, with a proven ability to develop collaborative teams of exceptional engineers Knowledge of the Web UX industry today Expert understanding of web services and site technologies (for example, REST APIs , HTML, CSS, JavaScript, JSON etc.) Experience with newer technologies like AngularJS, Cordova, and ReactJS a plus Experience with scrum, Kanban, or other agile engineering techniques Experience Required: BA/BS degree in CS, related discipline or equivalent work experience 3 or more years of engineering management experience 4 or more years of Web UX design and coding experience in high scale services 7 or more years of general design and coding experience (C++, C#, and/or Java) //epicMEE Come join us and help shape how we do amazing customer experiences on the web!",
+    "tokens": [
+      {
+        "text": "BA/BS degree",
+        "start": 447,
+        "end": 459,
+        "token_start": 77,
+        "token_end": 80,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "CS",
+        "start": 463,
+        "end": 465,
+        "token_start": 82,
+        "token_end": 82,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "3 or more years",
+        "start": 516,
+        "end": 531,
+        "token_start": 90,
+        "token_end": 93,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "engineering management",
+        "start": 535,
+        "end": 557,
+        "token_start": 95,
+        "token_end": 96,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "7 or more years",
+        "start": 647,
+        "end": 662,
+        "token_start": 113,
+        "token_end": 116,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "design",
+        "start": 674,
+        "end": 680,
+        "token_start": 119,
+        "token_end": 119,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "coding",
+        "start": 685,
+        "end": 691,
+        "token_start": 121,
+        "token_end": 121,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C++",
+        "start": 704,
+        "end": 707,
+        "token_start": 124,
+        "token_end": 124,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "C#",
+        "start": 709,
+        "end": 711,
+        "token_start": 126,
+        "token_end": 127,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "Java",
+        "start": 720,
+        "end": 724,
+        "token_start": 130,
+        "token_end": 130,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "4 or more years",
+        "start": 569,
+        "end": 584,
+        "token_start": 98,
+        "token_end": 101,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "Web UX design",
+        "start": 588,
+        "end": 601,
+        "token_start": 103,
+        "token_end": 105,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "coding",
+        "start": 606,
+        "end": 612,
+        "token_start": 107,
+        "token_end": 107,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 82, "head": 77, "relationLabel": "DEGREE_IN" },
+      { "child": 95, "head": 90, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 119, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 121, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 124, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 126, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 130, "head": 113, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 103, "head": 98, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 107, "head": 98, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "include: Bachelor of Mechanical Engineering or equivalent. At least 5 years of HW engineering experience. Excellent communication, teamwork, documentation and organizational skills. Great attitude and self-motivation. Systematic and conceptual thinking. Proficiency with Mechanical design tool, like CREO or other. Comfortable in a lab environment using test and measurement equipment to characterize and analyze designs. Proficiency with board and system level design, analysis, verification, and documentation. Proficiency with Statistical analysis methods and tools such as JMP, preferred. Experience delivering solutions for high-mix high-volume production, preferred. Ability to troubleshoot to root cause and solve complex problems. SPC and six sigma methodologies.",
+    "tokens": [
+      {
+        "text": "Bachelor",
+        "start": 9,
+        "end": 17,
+        "token_start": 2,
+        "token_end": 2,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Mechanical Engineering",
+        "start": 21,
+        "end": 43,
+        "token_start": 4,
+        "token_end": 5,
+        "entityLabel": "DIPLOMA_MAJOR"
+      },
+      {
+        "text": "5 years",
+        "start": 68,
+        "end": 75,
+        "token_start": 11,
+        "token_end": 12,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "HW engineering",
+        "start": 79,
+        "end": 93,
+        "token_start": 14,
+        "token_end": 15,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 4, "head": 2, "relationLabel": "DEGREE_IN" },
+      { "child": 14, "head": 11, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  },
+  {
+    "document": "A successful member of our team will have: 5 + years of industry experience developing and implementing tools and applications at scale. BS/MS in Computer Science or equivalent industry experience. Demonstrated CS fundamentals with a deep appreciation for the differences between platforms and environments. Demonstrated technical design, problem solving and debugging skills. Unwavering passion to understand and simplify the developer experience. Fantastic communication skills. A track record of working collaboratively to understand customer needs and create solutions that positively impact our customers.",
+    "tokens": [
+      {
+        "text": "5 + years",
+        "start": 43,
+        "end": 52,
+        "token_start": 9,
+        "token_end": 11,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "industry",
+        "start": 56,
+        "end": 64,
+        "token_start": 13,
+        "token_end": 13,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "developing and implementing tools",
+        "start": 76,
+        "end": 109,
+        "token_start": 15,
+        "token_end": 18,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "BS/MS",
+        "start": 137,
+        "end": 142,
+        "token_start": 24,
+        "token_end": 26,
+        "entityLabel": "DIPLOMA"
+      },
+      {
+        "text": "Computer Science",
+        "start": 146,
+        "end": 162,
+        "token_start": 28,
+        "token_end": 29,
+        "entityLabel": "DIPLOMA_MAJOR"
+      }
+    ],
+    "relations": [
+      { "child": 13, "head": 9, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 15, "head": 9, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 28, "head": 24, "relationLabel": "DEGREE_IN" }
+    ]
+  },
+  {
+    "document": "BA/BS degree 7+ years experience in brand and/or product marketing in the consumer technology sector Experience managing the marketing communications process from research and insight to execution and optimization in-market Experience driving initiatives at both a strategic and executional level Quantitative analytical experience Demonstrated experience communicating concepts Experience with consumer hardware PREFERRED MBA Experience and exposure to AR/VR/Smart Home market dynamics and realities, the competitive landscape, and technology trends across mobile apps, augmented reality, virtual reality, artificial intelligence, and more Experience launching category-redefining consumer hardware products Experience with Gaming Startup experience Passionate about technology, internet and connectivity trends Experience with traditional, mass media campaign development, like television and out of home, to drive brand awareness and customer adoption Sees ambiguity as opportunity Enjoys working closely many cross-functional teams Comfort in a fast-paced entrepreneurial environment",
+    "tokens": [
+      {
+        "text": "7+ years",
+        "start": 13,
+        "end": 21,
+        "token_start": 4,
+        "token_end": 6,
+        "entityLabel": "EXPERIENCE"
+      },
+      {
+        "text": "brand",
+        "start": 36,
+        "end": 41,
+        "token_start": 9,
+        "token_end": 9,
+        "entityLabel": "SKILLS"
+      },
+      {
+        "text": "product marketing",
+        "start": 49,
+        "end": 66,
+        "token_start": 11,
+        "token_end": 12,
+        "entityLabel": "SKILLS"
+      }
+    ],
+    "relations": [
+      { "child": 9, "head": 4, "relationLabel": "EXPERIENCE_IN" },
+      { "child": 11, "head": 4, "relationLabel": "EXPERIENCE_IN" }
+    ]
+  }
+]
